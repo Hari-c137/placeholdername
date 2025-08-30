@@ -1,7 +1,2 @@
-#include <stdio.h>
+This is a test change by AmBaddie.
 
-int main() {
-	printf("Hello, world!\n");
-	return 0;
-}
-	
